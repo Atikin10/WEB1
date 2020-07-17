@@ -1,6 +1,7 @@
-let obj ={
-    a:1,
-    b:2,
-    c:3
+var obj = {
+    Коля: '1000',
+    Вася: '500', 
+    Петя: '200'
 }
-console.log(obj['c']);
+delete obj.Вася;
+console.log(obj);
