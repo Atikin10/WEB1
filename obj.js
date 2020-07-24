@@ -1,7 +1,8 @@
-let c=15;
-let d=2;
-let result=c+d;
-console.log("Сумма="+result)
+let a=10;
+let b=2;
+let c=5;
+let sum = a+b+c;
+console.log("Сумма="+sum);
 
 
 
