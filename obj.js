@@ -1,5 +1,5 @@
-let name ="Mikita"
-console.log('Hello',''+name);
+let age =22;
+console.log('Мне',age,'лет!');
 
 
 
