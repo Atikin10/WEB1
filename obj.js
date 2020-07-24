@@ -1,8 +1,9 @@
-let a=10;
-let b=2;
-let c=5;
-let sum = a+b+c;
-console.log("Сумма="+sum);
+let a=17;
+let b=10;
+const c=a-b;
+let d=7;
+let result=c+d;
+console.log(result);
 
 
 
